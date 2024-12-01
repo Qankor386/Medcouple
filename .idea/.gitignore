@@ -1,0 +1,10 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Ignore all .idea files
+.idea/
+
+# Ignore Python bytecode
+*.pyc
+__pycache__/
