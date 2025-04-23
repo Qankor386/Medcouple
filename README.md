@@ -23,3 +23,21 @@
 ### Duben 2025
 4. Dokončení implementace efektivnějšího algoritmu a optimalizace jeho výkonu
 5. Analýza výsledků testování a konzultace s vedoucím práce ohledně dalšího směru vývoje a případných úprav
+
+
+## Záznamy o progresu II
+
+| #  | Datum                   | Činnost                                                                |
+|----|-------------------------|------------------------------------------------------------------------|
+| 1  | 2025-03-13              | Úprava implementace naivního algoritmu                                 |
+| 2  | 2025-03-22 - 2025-03-23 | Začátek práce na teoretické části BP (úvod a osnova)                   |
+| 3  | 2025-04-02              | Studium a implementace efektivního algoritmu                           |
+| 4  | 2025-04-11 - 2025-04-12 | Práce na 1. kapitole teoretické části                                  |
+| 5  | 2025-04-15              | Práce na efektivním algoritmu                                          |
+| 6  | 2025-04-19              | Studium efektivnějšího algoritmu pro medián a psaní praktické části BP |
+| 7  | 2025-04-22              | Dokončení 1. kapitoly teoretické části BP                              |
+
+## Plán harmonogramu dalších kroků
+
+1. Dokončení efektivního algoritmu a jeho optimalizace
+2. Analýza výsledků a dokončení bakalářské práce
