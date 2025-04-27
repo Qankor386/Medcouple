@@ -27,15 +27,18 @@
 
 ## Záznamy o progresu II
 
-| #  | Datum                   | Činnost                                                                |
-|----|-------------------------|------------------------------------------------------------------------|
-| 1  | 2025-03-13              | Úprava implementace naivního algoritmu                                 |
-| 2  | 2025-03-22 - 2025-03-23 | Začátek práce na teoretické části BP (úvod a osnova)                   |
-| 3  | 2025-04-02              | Studium a implementace efektivního algoritmu                           |
-| 4  | 2025-04-11 - 2025-04-12 | Práce na 1. kapitole teoretické části                                  |
-| 5  | 2025-04-15              | Práce na efektivním algoritmu                                          |
-| 6  | 2025-04-19              | Studium efektivnějšího algoritmu pro medián a psaní praktické části BP |
-| 7  | 2025-04-22              | Dokončení 1. kapitoly teoretické části BP                              |
+| # | Datum                   | Činnost                                                                |
+|---|-------------------------|------------------------------------------------------------------------|
+| 1 | 2025-03-13              | Úprava implementace naivního algoritmu                                 |
+| 2 | 2025-03-22 - 2025-03-23 | Začátek práce na teoretické části BP (úvod a osnova)                   |
+| 3 | 2025-04-02              | Studium a implementace efektivního algoritmu                           |
+| 4 | 2025-04-09 - 2025-04-10 | Studium a implementace efektivního algoritmu                           |
+| 5 | 2025-04-11 - 2025-04-12 | Práce na 1. kapitole teoretické části                                  |
+| 6 | 2025-04-15              | Práce na efektivním algoritmu                                          |
+| 7 | 2025-04-19              | Studium efektivnějšího algoritmu pro medián a psaní praktické části BP |
+| 8 | 2025-04-22              | Dokončení 1. kapitoly teoretické části BP                              |
+| 9 | 2025-04-25 - 2025-04-26 | Hledání a studování literatury k statickým vlastnostem a šikmosti      |
+
 
 ## Plán harmonogramu dalších kroků
 
