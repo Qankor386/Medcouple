@@ -1,4 +1,4 @@
-from lib.kernel.kernel import calc_kernel, count_leq
+from lib.kernel.kernel import calc_kernel
 from lib.median.median import find_median
 import pandas as pd
 
