@@ -1,5 +1,5 @@
 import unittest
-from lib.medcouple.medcouple import find_medcouple, find_medcouple_naive
+from lib.medcouple.medcouple import find_medcouple_fast, find_medcouple_naive
 
 
 class TestFindMedcouple(unittest.TestCase):

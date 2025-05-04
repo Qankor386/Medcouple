@@ -23,19 +23,3 @@ def calc_kernel(i, j, z_minus, z_plus):
         else:
             return -1
 
-
-def count_leq(h_val, z_minus, z_plus):
-    p = len(z_minus)
-    q = len(z_plus)
-    count = 0
-
-    for i in range(q):
-        low, high = 0, p
-        while low < high:
-            mid = (low + high) // 2
-            if calc_kernel(i, mid, z_minus, z_plus) <= h_val:
-                low = mid + 1
-            else:
-                high = mid
-        count += low
-    return count
